@@ -63,3 +63,5 @@ class CompoundInterestTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# finished this one too
