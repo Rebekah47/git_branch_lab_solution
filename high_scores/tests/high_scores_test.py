@@ -44,3 +44,5 @@ class HighScoresTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# i have worked on this and it all works!!!
